@@ -1,3 +1,3 @@
 {
-	"name": "Manul Official WhatsApp Bot Multi Device "
+	"name": "Rush Official WhatsApp Bot Multi Device "
 }
