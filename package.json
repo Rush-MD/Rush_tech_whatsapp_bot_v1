@@ -1,18 +1,18 @@
 {
-    "name": "Cheems-Bot-MD",
+    "name": "Rush-Bot-MD",
     "version": "11.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "description": "Whatsapp Bot By Rush",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XeonMedia"
+        "media": "RushMedia"
     },
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Rush",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
