@@ -1,8 +1,8 @@
 {
   "name": "Manu-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4",
-  "logo": "https://telegra.ph/file/7661a1073be8dbb3e1da2.jpg?format=jpg&name=900x900",
+  "repository": "https://github.com/Rush-MD/Rush_tech_whatsapp_bot_v1",
+  "logo": "https://aemt.me/file/5qvNDVPOlcxX.jpg?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
