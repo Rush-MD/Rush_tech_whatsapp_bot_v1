@@ -8,43 +8,43 @@
     "vote": []
   },
   "users": {
-    "94762498519@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "serialNumber": "5748ef2731f9b0ab993964d915670166",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "Hui",
+      "nick": "rush",
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
     },
-    "13022410866@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "serialNumber": "51b5bea707a330943f3f5622ddccf7b8",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "+91 69091 37213",
+      "nick": "94760000000",
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
     },
-    "94775258999@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "serialNumber": "42d9404996157ee8f33424778fed1808",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "+91 94021 04403",
+      "nick": "94760000000",
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
     }
   },
   "chats": {
-    "120363200175936047@g.us": {
-      "badword": true,
+    "120363047626537933@g.us": {
+      "badword": false,
       "antiforeignnum": false,
       "antibot": false,
       "antiviewonce": false,
@@ -59,11 +59,11 @@
       "antilocation": false,
       "antidocument": false,
       "anticontact": false,
-      "antilink": true,
+      "antilink": false,
       "antipromotion": false,
-      "antilinkgc": true
+      "antilinkgc": false
     },
-    "916909137213@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
@@ -103,7 +103,7 @@
       "antipromotion": false,
       "antilinkgc": false
     },
-    "919402104403@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
@@ -125,7 +125,7 @@
     }
   },
   "settings": {
-    "919366316018@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "totalhit": 250,
       "totalError": 0,
       "online": false,
@@ -143,20 +143,20 @@
       "autotype": false,
       "watermark": {
         "packname": "Sticker By",
-        "author": "rushl Official\n\n+94762498519"
+        "author": "rush📸"
       },
       "about": {
         "bot": {
-          "nick": "Hui",
-          "alias": "rushl Official WhatsApp Bot V4"
+          "nick": "rush",
+          "alias": "rush bot v 6 🤍"
         },
         "owner": {
-          "rushl": "+94 76 000 0000",
-          "king": "94762498519"
+          "nick": "94760000000",
+          "alias": "94760000000"
         }
       }
     },
-    "916909137213@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "totalhit": 3,
       "totalError": 0,
       "online": false,
@@ -174,20 +174,20 @@
       "autotype": false,
       "watermark": {
         "packname": "Sticker By",
-        "author": "rushl Official\n\n+94762498519"
+        "author": "rush📸"
       },
       "about": {
         "bot": {
-          "nick": "Hui",
-          "alias": "rushl Official WhatsApp Bot V4"
+          "nick": "94760000000",
+          "alias": "rush bot v 6 🤍"
         },
         "owner": {
-          "rushl": "+94 76 000 0000",
-          "king": "94762498519"
+          "nick": "94760000000",
+          "alias": "94760000000"
         }
       }
     },
-    "919402104403@s.whatsapp.net": {
+    "94760000000@s.whatsapp.net": {
       "totalhit": 11,
       "totalError": 0,
       "online": false,
@@ -205,19 +205,19 @@
       "autotype": false,
       "watermark": {
         "packname": "Sticker By",
-        "author": "rushl Official\n\n+94762498519"
+        "author": "rush📸"
       },
       "about": {
         "bot": {
-          "nick": "Hui",
-          "alias": "rushl Official WhatsApp Bot V4"
+          "nick": "94760000000",
+          "alias": "rush bot v 6 🤍"
         },
         "owner": {
-          "rushl": "+94 76 000 0000",
-          "king": "94762498519"
+          "nick": "rush Bot User",
+          "alias": "94760000000"
         }
       }
     }
   },
   "message": {}
-}
+    }
