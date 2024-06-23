@@ -21,3 +21,11 @@
 <p align="center">
 𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot 𝕕𝕖𝕡𝕝𝕠𝕪 𝕥𝕦𝕥𝕠𝕚𝕒𝕝💞 𝕕𝕖𝕡𝕝𝕠𝕪 𝕧𝕚𝕕𝕖𝕠 එක <a href="https://github.com/Rush-MD" target="_blank">𝕐𝕆𝕌𝕋𝕌𝔹𝔼👈👈💗</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">🇱🇰</a>. 𝕎𝔸ℂℍ 𝔽ℝ𝕀𝕊𝕋.
 </p>
+
+## deploy method💗🌎
+
+## 01 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+
+
