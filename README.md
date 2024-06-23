@@ -14,7 +14,7 @@
 
 *THIS🎉IS_RUSH_MD_PAIR_CODE_SET_UP_YOUR_WHATSAPP👇👇*
  ____________________________________
-<a href=https://replit.com/@fedehoh843/RUSH-BOT-PAIR-CODE-MADE-BY-RUSH-1 target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href=https://replit.com/@fedehoh843/RUSH-BOT-PAIR-CODE-MADE-BY-RUSH-1 target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-pink?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 _______________________________👆👆_____
 
