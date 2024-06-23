@@ -6,7 +6,7 @@
 </p>
 
    <p align="center">
-𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/manulofficial7" target="_blank">𝗥𝗨𝗦𝗛𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟𝗞</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. 𝗙𝗥𝗜𝗦𝗧 𝗦𝗧𝗔𝗥.
+𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rush-MD" target="_blank">𝗥𝗨𝗦𝗛𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟𝗞</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. 𝗙𝗥𝗜𝗦𝗧 𝗦𝗧𝗔𝗥.
 </p>
 
 
