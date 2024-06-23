@@ -10,7 +10,13 @@
 </p>
 
 
+## whatsapp conect කරන්නේ මේක මගින්
 
+*THIS🎉IS_RUSH_MD_PAIR_CODE_SET_UP_YOUR_WHATSAPP🪀🪀*
+ ____________________________________
+<a href=https://replit.com/@fedehoh843/RUSH-BOT-PAIR-CODE-MADE-BY-RUSH-1 target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+____________________________________
 
 
       ⚠️𝗡𝗢𝗧𝗘 ඔබ නිසි ලෙස පරිහරණය නොකරයි නම් අප වග නොකියයි 
