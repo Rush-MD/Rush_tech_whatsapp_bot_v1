@@ -26,6 +26,9 @@
 
 ## 01 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-
+## 02 codespace <br>
+  <a href="https://github.com/codespaces/new"><img title="KISH on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"width="220" height="38.45"/></a></p>
+</a>
+  <br>
 
 
