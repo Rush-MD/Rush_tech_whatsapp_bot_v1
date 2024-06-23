@@ -10,40 +10,6 @@
 </p>
 
 
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/Rush-MD/Rush_tech_whatsapp_bot_v1
-yarn install
-npm start
-```
-
-____________________________________
-
-
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/Rush-MD/Rush_tech_whatsapp_bot_v1.git
-cd Rush-MD/Rush_tech_whatsapp_bot_v1
-npm start
-```
-
-___________________________________
 
 
 
