@@ -1,8 +1,7 @@
  
-
 <h1 align="center"> ( 🦄𝗥𝗨𝗦𝗛 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="https://aemt.me/file/5qvNDVPOlcxX.jpg" />
+<img src="https://telegra.ph/file/47e8f68ffdd598dd587f7.jpg" />
 </p>
 
    <p align="center">
