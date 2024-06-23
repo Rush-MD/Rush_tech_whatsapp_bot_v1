@@ -18,6 +18,6 @@
 <a href=https://replit.com/@fedehoh843/RUSH-BOT-PAIR-CODE-MADE-BY-RUSH-1 target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js session-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 ## 02💞
 ## then wach tutorial deploy  ඊලගට මේ video එක බලන්න deploy කරන්න🇱🇰👇
-link=https
-
-
+<p align="center">
+𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rush-MD" target="_blank">𝕐𝕆𝕌𝕋𝕌𝔹𝔼👈</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">🇱🇰</a>. 𝕎𝔸ℂℍ 𝔽ℝ𝕀𝕊𝕋.
+</p>
