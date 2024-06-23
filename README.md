@@ -1,6 +1,6 @@
  
 
-<h1 align="center"> ( 🦄𝗥𝗨𝗦𝗛 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩1 to v4ꫂ<br></h1>
+<h1 align="center"> ( 🦄𝗥𝗨𝗦𝗛 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩1ꫂ<br></h1>
 <p align="center">
 <img src="https://aemt.me/file/5qvNDVPOlcxX.jpg" />
 </p>
@@ -9,7 +9,6 @@
 𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/manulofficial7" target="_blank">𝗥𝗨𝗦𝗛𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟𝗞</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. 𝗙𝗥𝗜𝗦𝗧 𝗦𝗧𝗔𝗥.
 </p>
 
-dising and coded by sl rush,script by cheems,full admin is rush🇱🇰
 
 ## `For Termux/Ssh/Ubuntu`
 ```bash
