@@ -23,7 +23,7 @@
 
 *THIS🎉IS_RUSH_MD_PAIR_CODE_SET_UP_YOUR_WHATSAP👈👈*
  ____________________________________
-<a href=https://dashboard.heroku.com/new?template= target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Deploy to heroku-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href=https://dashboard.heroku.com/new?template target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Deploy to heroku-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ## 02 codespace 
 <br>
@@ -31,3 +31,7 @@
 </a>
   <br>
 
+## 03 𝗼𝘁𝗵𝗲𝗿
+## `𝗼𝗿 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗼𝗽𝘆 𝘁𝗵𝗶𝘀 𝗹𝗶𝗻𝗸 𝗵𝗲𝗿𝗼𝗸𝘂🎉🎉
+```bash
+https://dashboard.heroku.com/new?template=
