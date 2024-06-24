@@ -21,9 +21,9 @@
 𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot 𝕕𝕖𝕡𝕝𝕠𝕪 𝕥𝕦𝕥𝕠𝕚𝕒𝕝💞 𝕕𝕖𝕡𝕝𝕠𝕪 𝕧𝕚𝕕𝕖𝕠 එක <a href="https://github.com/Rush-MD" target="_blank">𝕐𝕆𝕌𝕋𝕌𝔹𝔼👈👈💗</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">🇱🇰</a>. 𝕎𝔸ℂℍ 𝔽ℝ𝕀𝕊𝕋.
 </p>
 
-## deploy method💗🌎
-
-## 01 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+*THIS🎉IS_RUSH_MD_PAIR_CODE_SET_UP_YOUR_WHATSAP👈👈*
+ ____________________________________
+<a href=https://dashboard.heroku.com/new?template= target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Deploy to heroku-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ## 02 codespace 
 <br>
@@ -31,8 +31,3 @@
 </a>
   <br>
 
-## 03💞 heroku deploy new 👈👈👈👈
-
-*THIS🎉IS_RUSH_MD_HEROKU_DEPLOY👈👈*
- ____________________________________
-<a href=https://dashboard.heroku.com/new?template= target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Deploy to heroku-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
