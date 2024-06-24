@@ -31,4 +31,8 @@
 </a>
   <br>
 
+## 03💞 heroku deploy new 👈👈👈👈
 
+*THIS🎉IS_RUSH_MD_HEROKU_DEPLOY👈👈*
+ ____________________________________
+<a href=https://dashboard.heroku.com/new?template= target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Deploy to heroku-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
