@@ -7,7 +7,7 @@
    <p align="center">
 𝗥𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Rush-MD" target="_blank">𝗥𝗨𝗦𝗛𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟𝗞</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. 𝗙𝗥𝗜𝗦𝗧 𝗦𝗧𝗔𝗥.
 </p>
-
+𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗖𝗨𝗠𝗜𝗡𝗨𝗧𝗬 =https://whatsapp.com/channel/0029VaicAPo2P59qng5LjY0m
 
 ## 💞01 
 ## whatsapp conect කරන්නේ මේක මගින්
@@ -35,3 +35,5 @@
 ## `𝗼𝗿 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗼𝗽𝘆 𝘁𝗵𝗶𝘀 𝗹𝗶𝗻𝗸 𝗵𝗲𝗿𝗼𝗸𝘂🎉🎉
 ```bash
 https://dashboard.heroku.com/new?template=
+
+
